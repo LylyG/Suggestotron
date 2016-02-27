@@ -1,5 +1,7 @@
 ##Suggestotron is a Ruby on Rails app which allows you to add, edit and remove topics. You can also vote for them.
 
+Link to Heroku app: https://floating-lake-55245.herokuapp.com/
+
 A library is a collection of reusable code to accomplish an activity
 Don't reinvent the wheel!
 
@@ -10,7 +12,6 @@ It's a good beginner language to get a handle on programming basics and move on
 to other languages.
 
 Why use a framework?
-
 
 Making a table with a migration
 Database is the actual model.
